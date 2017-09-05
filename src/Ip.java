@@ -172,7 +172,6 @@ class PopFrame extends JFrame
         setLayout(null);
 
     }
-    
 }
 
 class About
